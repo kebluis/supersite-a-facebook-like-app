@@ -1,6 +1,6 @@
 ## Getting Started
 
-After cloning, setup the .env.local file using the template shown in the [.env.sample](https://github.com/kevin-codev/superheroes/blob/master/.env.sample) file.
+After cloning, setup the .env.local file using the template shown in the .env.sample file.
 
 Make sure to insert the 'access code' by linking your Facebook account to the [Superheroes API](https://www.superheroapi.com/) site.
 
